@@ -1,20 +1,53 @@
 <div align="center"> 
-   <h1>某某项目简体中文翻译</h1>
+   <h1>Craft to Exile 2 简体中文翻译</h1>
 </div>
 
 | CurseForge     | 加载器     | 整合包版本         | 汉化维护状态 |
 | :------------- | :--------- | :----------------- | :----------- |
-| [链接](原链接) | 模组加载器 | MC 版本 整合包版本 | 翻译中       |
+| [链接](https://www.curseforge.com/minecraft/modpacks/craft-to-exile-2) | Forge | 1.20.1 1.1.3 | 翻译中       |
 
 ### 📌 汉化相关
 
-- **汉化项目**：[Paratranz](https://paratranz.cn/projects/项目)
-- **汉化发布**：[VM 汉化组官网](https://vmct-cn.top/modpacks/项目)
-- **译者名单**：[贡献者排行榜](https://paratranz.cn/projects/项目/leaderboard)
+- **汉化项目**：[Paratranz](https://paratranz.cn/projects/18573)
+- **汉化发布**：[VM 汉化组官网](https://vmct-cn.top/modpacks/18573)
+- **译者名单**：[贡献者排行榜](https://paratranz.cn/projects/18573/leaderboard)
 
 # 📖 整合包介绍
 
 （在这里填写整合包介绍内容……）
+
+---
+
+感谢上帝，这个整合包似乎没有太多未汉化的模组
+但是相当庞大的自定义系统又很好地弥补了这一点
+
+需汉化模组：
+
+CTE2 Armors 自定义装备
+
+FTB Placeholders 图标
+
+MIMI 一个乐器mod
+
+Stardew Fishing 星露谷钓鱼
+
+MnS Extras 目测是挖矿与砍杀Mine and Slash的扩展
+
+Realm RPG: Sea Dwellers
+
+Remnant Bosses
+
+Recreation of Exile 自定义物品
+
+Auto Repair Kits 自动修理套件
+
+Twilight Forest Bosses Resurrection 复活暮色Boss用的模组
+
+Lightman's Currency 提供了一些用来交易的货架、拍卖台等等 也可以用来装饰
+
+
+
+---
 
 # ⚙️ 自动化 Paratranz 同步教程
 

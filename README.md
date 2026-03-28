@@ -45,6 +45,8 @@ Twilight Forest Bosses Resurrection 复活暮色Boss用的模组
 
 Lightman's Currency 提供了一些用来交易的货架、拍卖台等等 也可以用来装饰
 
+Mine and Slash 部分未汉化
+
 
 
 ---

@@ -1,0 +1,110 @@
+{
+	"entity.gateways.gateway" : "永恒之门",
+	"item.gateways.gate_pearl": "传送门珍珠",
+	"gateways.gate_pearl": "%s珍珠",
+	"itemGroup.gateways": "永恒之门",
+
+	"info.gateways.gate_pearl": "你可以在方块上使用传送门珍珠来开启对应的传送门。\n\n开启传送门需要周围有足够的空间，且开启后无法打开另一个传送门。\n",
+	"info.gateways.gate_pearl.2": "如果传送门内的生物无法正常生成、超出最大范围，或超出波次的时间限制，那么它将在一道闪电后自行毁灭。\n\n奖励将在每一波结束时产生。",
+
+	"tooltip.gateways.with_count": "%s %s",
+	"tooltip.gateways.dot_with_count": "• %s %s",
+	"tooltip.gateways.dot": "• %s",
+
+	"tooltip.gateways.scroll": "[scroll]",
+	"tooltip.gateways.shift": "按住Shift以查看波次信息",
+    "tooltip.gateways.ctrl": "按住Ctrl以查看最终奖励",
+    "tooltip.gateways.alt": "[alt]",
+    "tooltip.gateways.true": "Enabled",
+    "tooltip.gateways.false": "Disabled",
+
+	"tooltip.gateways.num_wave": "%s Wave",
+	"tooltip.gateways.num_waves": "%s Waves",
+	"tooltip.gateways.wave": "Wave %s/%s",
+	"tooltip.gateways.entities": "生物：",
+	"tooltip.gateways.modifiers": "增益：",
+	"tooltip.gateways.rewards": "-奖励：",
+
+	"tooltip.gateways.num_failures": "%s Penalties",
+	"tooltip.gateways.num_failure": "%s Penalty",
+	"tooltip.gateways.failures": "Failure Penalties",
+
+	"tooltip.gateways.num_rule": "%s Rule Change",
+	"tooltip.gateways.num_rules": "%s Rule Changes",
+	"tooltip.gateways.rules": "Rule Changes",
+
+	"tooltip.gateways.key_rewards": "Key Rewards",
+
+    "tooltip.gateways.endless.base_wave": "Base Wave",
+	"tooltip.gateways.endless.num_modif": "%s Endless Modifier",
+	"tooltip.gateways.endless.num_modifs": "%s Endless Modifiers",
+    "tooltip.gateways.endless.modifier": "Endless Modifier %s/%s",
+    "tooltip.gateways.endless.wave_time": "%s Max Wave Time",
+    "tooltip.gateways.endless.setup_time": "%s Setup Time",
+
+	"boss.gateways.wave": "波次：%d/%d | 时间：%s | 生物：%d",
+	"boss.gateways.done": "挑战成功！",
+	"boss.gateways.starting": "第%d波将于%s后开始",
+	"boss.gateways.endless.top": "Wave: %d/%d | Time Remaining: %d",
+    "boss.gateways.endless.bot": "Enemies: %d/%d | Modifiers Active: %d",
+	"boss.gateways.endless.incoming": "Enemies Incoming: %d",
+
+	"reward.gateways.stack": "%sx %s",
+	"reward.gateways.entity": "%sx %s随机战利品",
+	"reward.gateways.loot_table": "%sx %s随机",
+	"reward.gateways.chance": "%s 几率 %s",
+	"reward.gateways.experience": "%s Experience",
+	"reward.gateways.summon": "Summons %s",
+
+	"failure.gateways.explosion": "Explosion of Radius %s",
+	"failure.gateways.mob_effect": "%s",
+	"failure.gateways.summon": "Summons %s",
+	"failure.gateways.chance": "%s Chance of %s",
+
+	"rule.gateways.default": "[was %s]",
+	"rule.gateways.spawn_range": "Spawn Range: %s",
+	"rule.gateways.leash_range": "Leash Range: %s",
+	"rule.gateways.allow_discarding": "Allow Discarding: %s",
+	"rule.gateways.allow_dim_change": "Allow Changing Dimensions: %s",
+	"rule.gateways.player_damage_only": "Player Damage Only: %s",
+	"rule.gateways.remove_mobs_on_failure": "Remove Mobs on Failure: %s",
+	"rule.gateways.fail_on_out_of_bounds": "Fail on Out of Bounds: %s",
+	"rule.gateways.spacing": "Spacing: %s",
+
+	"error.gateways.no_space": "没有足够的空间来开启传送门！",
+	"error.gateways.wave_failed": "传送门崩塌了，因为没有足够的空间来生成下一波生物！",
+	"error.gateways.too_far": "传送门崩塌了，因为当前波次中某一个生物超出了最大范围！",
+	"error.gateways.wave_elapsed": "已超出当前波次的时间限制！",
+	"error.gateways.entity_discarded": "The Gateway imploded because an entity was removed without being killed",
+
+    "appmode.gateways.after_wave": "Applied on wave %s.",
+    "appmode.gateways.after_every_n_waves": "Applies every %s waves. Max %s applications.",
+    "appmode.gateways.only_on_wave": "Applied only on wave %s.",
+    "appmode.gateways.only_on_every_n_waves": "Applied only on every %s waves.",
+
+	"stat.gateways.gates_defeated": "传送门已被击败",
+
+    "modifier.gateways.gear_set": "Equipped With %s",
+
+	"gateways.basic/blaze": "Blaze Gateway",
+	"gateways.basic/slime": "Slime Gateway",
+	"gateways.basic/enderman": "Enderman Gateway",
+    
+	"gateways.emerald_grove": "Gateway of the Emerald Grove",
+	"gateways.overworldian_nights": "Gateway of Overworldian Nights",
+	"gateways.hellish_fortress": "Gateway of the Hellish Fortress",
+
+    "gateways.endless/blaze": "Endless Blaze Gateway",
+
+    "rewards.gateways.loot_table.simple_dungeon": "Dungeon Loot",
+    "rewards.gateways.loot_table.nether_bridge": "Nether Fortress Loot",
+
+    "name.gateways.necrotic_farmer": "Necrotic Farmer",
+    "name.gateways.undead_legionnaire": "Undead Legionnaire",
+    "name.gateways.withered_ranger": "Withered Ranger",
+    "name.gateways.butcher": "Butcher",
+    "name.gateways.huge_slime": "Huge Slime",
+    "name.gateways.magicbane_slime": "Magicbane Slime",
+    "name.gateways.acidic_slime": "Acidic Slime",
+    "name.gateways.flaming_enderman": "Flaming Enderman"
+} 

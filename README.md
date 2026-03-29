@@ -8,6 +8,8 @@
 
 ### 📌 汉化相关
 
+**特别感谢 清秋 提供的翻译记忆及术语库支持！！！！**
+
 - **汉化项目**：[Paratranz](https://paratranz.cn/projects/18573)
 - **汉化发布**：[VM 汉化组官网](https://vmct-cn.top/modpacks/18573)
 - **译者名单**：[贡献者排行榜](https://paratranz.cn/projects/18573/leaderboard)
